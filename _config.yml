@@ -1,0 +1,6 @@
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://d-sleep.github.io/demo2/
+root: d-sleep.github.io/demo2/
+permalink: :year/:month/:day/:title.html
+permalink_defaults:
